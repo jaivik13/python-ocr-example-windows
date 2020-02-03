@@ -12,7 +12,7 @@ Kindly ensure you have the following installed on your machine:
 
 1. Clone the repository
 ```
-$ git clone 
+$ git clone  https://github.com/jaivik13/python-ocr-example-windows.git
 ```
 
 2. Check into the cloned repository
